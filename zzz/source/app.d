@@ -1,2 +1,0 @@
-import zzz;
-void main(){}
