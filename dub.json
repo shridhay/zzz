@@ -1,9 +1,0 @@
-{
-	"description": "A minimal D application.",
-	"dependencies": {},
-	"authors": ["hridhay"],
-	"copyright": "Copyright © 2026, Hridhay",
-	"license": "proprietary",
-	"name": "prog",
-    "libs": ["z3"]
-}
